@@ -3,12 +3,12 @@
       {"title": "Chopin Fantasie Impromptu", 
 "link": "https://raw.githubusercontent.com/lucastwong/rhythmicnanocart/master/ChopinImprom.xml",
 "tempo": 100,
-"scene": "https://raw.githubusercontent.com/lucastwong/rhythmicnanocart/master/cho" },
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
 
  {"title": "Rachmaninoff Prelude in G minor", 
 "link": "https://raw.githubusercontent.com/lucastwong/rhythmicnanocart/master/RachPrelude.xml",
 "tempo": 100,
-"scene": "https://raw.githubusercontent.com/lucastwong/rhythmicnanocart/master/tch" },
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
 
  {"title": "Tchaikovsky Trepak", 
 "link": "https://raw.githubusercontent.com/lucastwong/rhythmicnanocart/master/Trepak.xml",
@@ -18,11 +18,11 @@
  {"title": "Beethoven Pathetique 3rd movement", 
 "link": "https://raw.githubusercontent.com/lucastwong/rhythmicnanocart/master/Beethoven.xml",
 "tempo": 100,
-"scene": "https://raw.githubusercontent.com/lucastwong/rhythmicnanocart/master/moz" },
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox" },
 
  {"title": "Beethoven Symphony No. 7 1st movement", 
 "link": "https://raw.githubusercontent.com/lucastwong/rhythmicnanocart/master/Beethoven7.xml",
 "tempo": 100,
-"scene": "https://raw.githubusercontent.com/lucastwong/rhythmicnanocart/master/moz" }
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/TropicalSunnyDay" }
    ]
 }
